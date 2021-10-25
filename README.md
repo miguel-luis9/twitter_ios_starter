@@ -26,3 +26,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src='/Users/luismiguel/Desktop/Twitterclone.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+/Users/luismiguel/Desktop/twitter.gif
